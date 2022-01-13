@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JOINT
 
 You can use the [editor on GitHub](https://github.com/Shengqi-Pan/JOINT/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
